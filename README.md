@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<div>JavaScript is disabled on your browser.</div>
+# Octave Library
 </noscript>
 <!-- ========= START OF TOP NAVBAR ======= -->
 <div class="topNav"><a name="navbar.top">
