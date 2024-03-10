@@ -6,17 +6,7 @@
 <meta name="date" content="2020-01-06">
 </head>
 <body>
-<script type="text/javascript"><!--
-    try {
-        if (location.href.indexOf('is-external=true') == -1) {
-            parent.document.title="Overview";
-        }
-    }
-    catch(err) {
-    }
-//-->
-</script>
-<noscript>
+
 <div>JavaScript is disabled on your browser.</div>
 </noscript>
 <!-- ========= START OF TOP NAVBAR ======= -->
